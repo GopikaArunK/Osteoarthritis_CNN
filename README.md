@@ -130,7 +130,7 @@ Step-by-Step:
 
  By combining careful preprocessing (cropping + equalizing), transfer learning, and fine-tuning, this project improves the ability of the model to detect osteoarthritis severity accurately.
 
-OUTPUT
+
  
  
 

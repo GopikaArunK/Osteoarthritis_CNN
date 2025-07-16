@@ -28,13 +28,6 @@ This dataset contains knee X-ray data for both knee joint detection and knee KL 
 ●	Grade 2 (Minimal): Definite presence of osteophytes and possible joint space narrowing
 ●	Grade 3 (Moderate): Multiple osteophytes, definite joint space narrowing, with mild sclerosis.
 ●	Grade 4 (Severe): Large osteophytes, significant joint narrowing, and severe sclerosis.
-    Grade 0
-
- Grade 1
-
- Grade 2
- Grade 3
- Grade 4
 
 What we have done so far..
 1. image_utils.py – Image Preprocessing
